@@ -1,7 +1,7 @@
 class School
 
   def initialize(student_name)
-    @student_name = student_ame 
+    @student_name = student_name 
     @roster = {}
   end 
   
